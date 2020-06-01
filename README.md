@@ -2,6 +2,8 @@
 
 
 In this project we will be working with a fake advertising data set, indicating whether or not a particular internet user clicked on an Advertisement on a company website. We will try to create a model that will predict whether or not they will click on an ad based off the features of that user.
+It's based on Binary Classification(0 for not clicked and 1 for clicked).
+Therefore, We will amke use of metrics to evaluate the accuracy of our model's predictions.
 
 This data set contains the following features:
 
